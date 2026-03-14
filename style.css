@@ -131,3 +131,45 @@ footer {
     color: white;
     margin-top: 40px;
 }
+
+/* make it look good on phones */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    .about-box {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav a {
+        display: block;
+        margin: 5px 0;
+    }
+
+    section {
+        margin: 15px 10px;
+    }
+}
+
+/* make it look good on phones */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    .about-box {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav a {
+        display: block;
+        margin: 5px 0;
+    }
+
+    section {
+        margin: 15px 10px;
+    }
+}
