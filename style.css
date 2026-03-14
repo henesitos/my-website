@@ -23,6 +23,10 @@ header h1 {
     margin-bottom: 5px;
 }
 
+header p {
+    font-size: 1.1em;
+}
+
 nav {
     margin-top: 10px;
 }
