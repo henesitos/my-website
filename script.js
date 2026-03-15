@@ -7,7 +7,8 @@ var facts = [
     "I once binge-watched an entire anime series in one weekend.",
     "My favorite travel memory is waking up to a mountain view.",
     "I've been gaming since I was 5 years old.",
-    "I can listen to the same song on repeat for hours and not get tired of it."
+    "I can listen to the same song on repeat for hours and not get tired of it.",
+    "I'm a big fan of anime and manga"
 ];
 
 var factIndex = 0;
